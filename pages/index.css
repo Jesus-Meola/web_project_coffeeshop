@@ -133,7 +133,8 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 50px 40px;
+  margin: 50px 0px 0px 40px;
+
 
 }
 
@@ -146,6 +147,7 @@
   line-height: 30px;
   margin: 24px 0px 0px 40px;
 
+
 }
 
 .recipes__videos {
@@ -153,8 +155,23 @@ display: flex;
 justify-content: center;
 column-gap: 40px;
 margin: 80px 0px 215px;
+
+}
+
+.iframe {
+ border: none;
+
 }
 
 .recipes__video-caption {
-  margin-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
 }
+
