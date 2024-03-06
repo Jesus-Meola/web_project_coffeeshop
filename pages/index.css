@@ -19,7 +19,7 @@
  max-height: 800px;
  position: relative;
  box-sizing: border-box;
- padding: auto;
+ padding: 0;
 }
 
 .nav {
