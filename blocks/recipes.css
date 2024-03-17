@@ -7,7 +7,7 @@
     color: #ffffff;
     padding: 50px 40px;
   }
-  
+
   .recipes__title {
     max-width: 580px;
     font-family: "Inter";
@@ -16,10 +16,10 @@
     font-size: 44px;
     line-height: 52px;
     margin: 50px 0px 0px 40px;
-  
-  
+
+
   }
-  
+
   .recipes__subtitle {
     max-width: 438px;
     font-family: "Noto Serif";
@@ -28,23 +28,23 @@
     font-size: 20px;
     line-height: 30px;
     margin: 24px 0px 0px 40px;
-  
-  
+
+
   }
-  
+
   .recipes__videos {
   display: flex;
   justify-content: center;
   column-gap: 40px;
   margin: 80px 0px 215px;
-  
+
   }
-  
-  .recipes__iframe {
+
+  .recipes__video-iframe {
    border: none;
-  
+
   }
-  
+
   .recipes__video-caption {
     display: flex;
     justify-content: space-between;
@@ -54,6 +54,6 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
-  
-  
+
+
   }
